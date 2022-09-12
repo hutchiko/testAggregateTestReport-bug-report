@@ -1,7 +1,7 @@
 ## Gradle issue reproducer
 
 The new report aggregation plugin https://docs.gradle.org/current/userguide/test_report_aggregation_plugin.html
-does not reproduce the same reporting behaviour on test failures as the existing single project test report. 
+does not reproduce the same reporting behaviour on test failures as the existing single Test task report. 
 
 To reproduce the issue run:
 
