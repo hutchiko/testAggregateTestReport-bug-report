@@ -19,5 +19,5 @@ However there is a non aggregated report:
  find build/reports/tests -type f -name index.html  
 ```
 
-Both an aggregated and non-aggregated report should be generated. These reports are most helpfull when tests fail so 
+Both an aggregated and non-aggregated report should be generated. These reports are most helpful when tests fail so 
 it's vital that the aggregated report is still generated on test failure.
